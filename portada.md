@@ -10,4 +10,4 @@ Para configurarla, únicamente tienes que pulsar sobre el lápiz al lado de tu n
 
 Y en él colocar la url de la imagen que quieras utilizar como portada.
 
-El tamaño recomendado es de 1280*160 px
+El tamaño recomendado es de 1280*160px
